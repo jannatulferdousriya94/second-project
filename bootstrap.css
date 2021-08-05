@@ -1,0 +1,36 @@
+.about-border{
+    padding: 0.5px;
+   
+    color: red;
+    width: 60px;
+    margin-left: 0;
+    margin-top: 0px;
+}
+.map{
+    color: white;
+    font-weight: normal;
+}
+.phn{
+    color: white;
+}
+.letter{
+    color: white;
+}
+.btn{
+    width: 350px;
+    background-color: red;
+    margin-bottom: 25px;
+}
+.email{
+    width: 500px;
+}
+
+.fontt{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mail{
+    width: 350px !important;
+}
+.msg{
+    width: 350px !important;
+}

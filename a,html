@@ -1,0 +1,16 @@
+<div class="container-fluid">
+        <h1 class="text-center text-capitalize pt-5">Services</h1>
+        <hr class="w-25 mx-auto pb-5">
+        <!--Card-->
+        <div class="card" style="width: 18rem;">
+            <img src="./imagee/143291.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Jannatul Ferdous</h5>
+              <p class="card-text">Software Engineer</p>
+              <a href="#" class="btn btn-primary">See profile</a>
+            </div>
+             
+
+              </div>
+
+        </div>
